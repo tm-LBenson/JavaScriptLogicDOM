@@ -1,0 +1,2 @@
+# JavaScriptLogicDOM
+assignment for codex
